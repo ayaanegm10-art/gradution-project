@@ -1,0 +1,6 @@
+@try4_HostAddress = http://localhost:5104
+
+GET {{try4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
